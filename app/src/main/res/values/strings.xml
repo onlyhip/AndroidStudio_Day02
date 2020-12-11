@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day02</string>
+    <string name="main_activity_click">Click</string>
+    <string name="constraint_layout_button">Button</string>
+</resources>
